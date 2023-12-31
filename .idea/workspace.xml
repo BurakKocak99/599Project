@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c15110b5-16c2-4edf-9ccf-99bb39705cd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/599Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPaaSDashboard/StreamlitProject/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPaaSDashboard/StreamlitProject/.streamlit/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPaaSDashboard/StreamlitProject/ApiConnection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPaaSDashboard/StreamlitProject/Documentation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPaaSDashboard/StreamlitProject/Utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPaaSDashboard/StreamlitProject/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPaaSDashboard/StreamlitProject/pages/1_Integration_Dashboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPaaSDashboard/StreamlitProject/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPaaSDashboard/StreamlitProject/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPaaSDashboard/StreamlitProject/style.css.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPaaSDashboard/StreamlitProject/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="c15110b5-16c2-4edf-9ccf-99bb39705cd6" name="Changes" comment="All Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,6 +136,15 @@
       <option name="presentableId" value="Default" />
       <updated>1703613645639</updated>
     </task>
+    <task id="LOCAL-00001" summary="All Changes">
+      <option name="closed" value="true" />
+      <created>1704059221006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704059221006</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,5 +160,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="All Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Changes" />
   </component>
 </project>
