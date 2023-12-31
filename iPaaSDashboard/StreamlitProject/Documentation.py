@@ -68,7 +68,7 @@ with st.spinner("Please wait while the Process data being fetched!"):
                 """)
         container.markdown("""------------------------------------------------------------""")
 
-    if_clicked = container.button("Update Flow", type="primary", help="help")
+    if_clicked = container.button("Update Flow", type="primary", help="This button deletes the current process for update purpose!")
     checked = container.checkbox("Confirm Deleting")
     if if_clicked and checked:
         button_click("ProcessName",option)
