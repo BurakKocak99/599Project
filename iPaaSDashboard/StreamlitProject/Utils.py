@@ -4,10 +4,6 @@ import ApiConnection as api
 from datetime import datetime
 import json
 
-'''
-This function returns a string. The output of the api request contains list of items and meta data or the response. By 
-query, users can get any data from the response using HeaderType (can be "Items" or "Count" or anything else)
-'''
 
 
 @streamlit.cache_data(ttl=600)

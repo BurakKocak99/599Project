@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c15110b5-16c2-4edf-9ccf-99bb39705cd6" name="Changes" comment="All Changes">
+      <change afterPath="$PROJECT_DIR$/LambdaFunctions/LogServiceDetails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LambdaFunctions/UpdateFlow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LambdaFunctions/getAllFlows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LambdaFunctions/getAllServices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LambdaFunctions/getItem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iPaaSDashboard/StreamlitProject/Documentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/iPaaSDashboard/StreamlitProject/Documentation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704061042380</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="All Changes">
+      <option name="closed" value="true" />
+      <created>1704062117322</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704062117322</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
